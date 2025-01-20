@@ -1,0 +1,2 @@
+Ссылка на гитхаб по заданию:
+https://github.com/lopate/llm-rag
